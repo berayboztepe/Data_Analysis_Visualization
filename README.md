@@ -1,6 +1,10 @@
-This is the last class's codes of matlab and also my final project's codes and the video of how my project works.
+-This is final project's codes with matlab and the video of how my project works. It is a GUI application.
 
+-The dataset has been imported. This dataset is about collected some information of patients.
 
+-Here, the mean of different features from a patient can be seen (GSR, IBI, TMP etc.)
+
+-Also, a plot can be plotted due to selected patient's information. This plot can be saved as PNG file as well.
 
 Here is the video:
 
